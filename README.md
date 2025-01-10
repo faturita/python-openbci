@@ -1,5 +1,7 @@
 # python-openbci
 
+![Python versions](https://img.shields.io/pypi/pyversions/icon_font_to_png.svg)
+
 Optimized Python Library for OpenBCI Cython.
 
 Basic usage:
