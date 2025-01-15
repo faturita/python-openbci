@@ -33,3 +33,6 @@ if __name__ == '__main__':
    
    board.disconnect()
 ```
+
+# More info
+* https://github.com/openbci-archive/pyOpenBCI
